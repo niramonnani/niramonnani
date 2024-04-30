@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me niramonnani@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 niramonnani/niramonnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
